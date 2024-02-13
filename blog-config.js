@@ -1,8 +1,8 @@
 module.exports = {
   title: "후루's Blog",
   description: "Front-End Developer",
-  author: "후루",
-  siteUrl: "https://main--oxlzlo.netlify.app/",
+  author: "oxlzlo",
+  siteUrl: "https://oxlzlo.netlify.app/",
   links: {
     github: "https://github.com/oxlzlo",
     // linkedIn: "https://linkedin.com",
