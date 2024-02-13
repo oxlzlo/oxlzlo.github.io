@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://main--oxlzlo.netlify.app/sitemap-index.xml
-Host: https://main--oxlzlo.netlify.app
+Sitemap: https://oxlzlo.netlify.app/sitemap-index.xml
+Host: https://oxlzlo.netlify.app
