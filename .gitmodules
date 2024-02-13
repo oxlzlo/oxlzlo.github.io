@@ -1,0 +1,3 @@
+[submodule "my-hoodie-blog"]
+    path = my-hoodie-blog
+    url = https://github.com/oxlzlo/oxlzlo.github.io.git
